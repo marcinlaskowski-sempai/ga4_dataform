@@ -30,6 +30,10 @@ function unnestColumn(columnToUnnest, keyToExtract, valueType="string_value") {
 };
 
 /**
+ * 
+ * test
+ */
+/**
  * Extracts the main URL from a page path with parameters.
 
  * Args:
